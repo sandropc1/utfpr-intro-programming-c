@@ -1,4 +1,4 @@
-# FD61A-2021-1
+# Intro to Programming in C (UTFPR FD61A, 2021/1)
 
 C exercises from UTFPR course **FD61A**, an introductory programming course, semester **2021/1**. Each exercise is a standalone program. Folders are named after the class session they belong to (`Aula N` = class N). Most files start with a comment that states the exercise (in Portuguese). All program text and identifiers are in Portuguese.
 
